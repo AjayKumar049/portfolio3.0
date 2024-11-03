@@ -1,0 +1,289 @@
+body{
+    background-color: blueviolet;
+}
+
+.home-content{
+    margin-top: 290px;
+    margin-right: 15px;
+    margin-bottom: 450px;
+    margin-left: 450px;
+    
+}
+
+#content{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+}
+
+#Full{
+    color: #ff73e8;
+}
+.name{
+    color: #ffa5f0;
+}
+
+
+
+img{
+    padding: 20px;
+}
+
+h1,h2,h3,h4{
+    color:#FFFFFF;
+}
+
+p{
+    color: lightgray;
+    font-size: 20px;
+}
+
+ol{
+    color: lightgray ;
+    font-size: 20px;
+}
+
+a{
+    font-size: 20px;
+    color: #ff73e8;
+}
+
+.footer{
+    background-color: red;
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 0px;
+}
+
+.contact-section{
+    padding-bottom: 70px;
+}
+
+i{
+    font-size: xx-large;
+    color: #ff73e8;
+    justify-content: space-between;
+}
+
+#linkde{
+    font-size: xx-large;
+    color: blue;
+}
+
+#git{
+    font-size: xx-large;
+    color: black;
+}
+.experience-section{
+    padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+@media (max-width:600px) and (min-width:400px){
+    body{
+        background-color: blueviolet;
+    }
+
+    .navbar-brand{
+        font-size: 40px;
+        color: #003366;
+        }
+
+    
+
+    
+    .home-content{
+        
+        margin-left: 25px;
+        font-size: xx-large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: bisque;
+        }
+    
+        
+    
+    #Full{
+        color: #ff73e8;
+    }
+    .name{
+        color: #ffa5f0;
+    }  
+    
+    h1,h2,h3{
+        color:#FFFFFF;
+    }
+    
+    p{
+        color: lightgray;
+        font-size: 20px;
+        
+    }
+    
+    ol{
+        color: lightgray ;
+        font-size: 20px;
+    }
+    
+    a{
+        font-size: 20px;
+        color: #ff73e8;
+    }
+
+    .footer{
+        background-color: red;
+        position: fixed;
+        text-align: center;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        font-size: 15px;
+        color: white;
+    }
+    .contact-section{
+        padding-bottom: 15px;
+    }
+    #linkde{
+        font-size: xx-large;
+        color: blue;
+    }
+    
+    #git{
+        font-size: xx-large;
+        color: black;
+    }
+}
+
+@media (max-width:550px) and (min-width:300px){
+    body{
+        background-color: blueviolet;
+    }
+
+    .navbar-brand{
+        font-size: 40px;
+        color: #003366;
+        }
+
+    
+
+    
+    .home-content{
+        
+        margin-left: 25px;
+        font-size: xx-large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: bisque;
+        }
+    
+        
+    
+    #Full{
+        color: #ff73e8;
+    }
+    .name{
+        color: #ffa5f0;
+    }  
+    
+    h1,h2,h3{
+        color:#FFFFFF;
+    }
+    
+    p{
+        color: lightgray;
+        font-size: 20px;
+        
+    }
+    
+    ol{
+        color: lightgray ;
+        font-size: 20px;
+    }
+    
+    a{
+        font-size: 20px;
+        color: #ff73e8;
+    }
+
+    @media (max-width:900px) and (min-width:700px){
+        body{
+            background-color: blueviolet;
+        }
+    
+        .navbar-brand{
+            font-size: 70px;
+            color: #003366;
+            }
+    
+        .home-content{
+            
+            margin-left: 25px;
+            font-size: xx-large;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: bisque;
+            }
+        
+            
+        
+        #Full{
+            color: #ff73e8;
+            font-size: xx-large;
+        }
+        .name{
+            color: #ffa5f0;
+        }  
+        
+        h1,h2,h3{
+            color:#FFFFFF;
+        }
+        
+        p{
+            color: lightgray;
+            font-size: 20px;
+        }
+        
+        ol{
+            color: lightgray ;
+            font-size: 20px;
+        }
+        
+        a{
+            font-size: 20px;
+            color: #ff73e8;
+        }
+
+    .footer{
+        background-color: red;
+        position: fixed;
+        text-align: center;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        font-size: 15px;
+        color: white;
+    }
+
+    .contact-section{
+        padding-bottom: 15px;
+    }
+    p{
+        color: lightgray;
+        font-size: 20px;
+    }
+    #linkde{
+        font-size: xx-large;
+        color: blue;
+    }
+    
+    #git{
+        font-size: xx-large;
+        color: black;
+    }
+    }
+}
